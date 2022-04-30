@@ -12,7 +12,7 @@ Example usage:
 	Do you want to use sklearn or custom implementation? (y/n/exit) n
 	Metrics for custom implementation : 
 	{'Accuracy': 0.9845594913714805, 'Recall': 1.0, 'Precision': 0.896969696969697, 'F1': 0.9456869009584664}
-	Please enter a test msg : (msg/exit) : mooooooney come get some money
+	Please enter a test msg : (msg/exit) : Hello there!
 	This msg is probably Ham.
 	Please enter a test msg : (msg/exit) : exit
 	Do you want to continue? (y/n/exit) n
